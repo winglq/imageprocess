@@ -10,3 +10,6 @@ ChangeLog
 /doc/_book/*
 *.jpg
 .egg*
+build/*
+*.csv
+dist/*
